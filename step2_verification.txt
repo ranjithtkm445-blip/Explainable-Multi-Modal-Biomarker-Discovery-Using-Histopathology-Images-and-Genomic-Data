@@ -1,0 +1,15 @@
+============================================================
+  Step 2 — Data Verification Report
+============================================================
+  Total patients    : 50
+  High-risk (1)     : 21
+  Low-risk  (0)     : 29
+  Tumor patches     : 37
+  Normal patches    : 13
+  Gene columns      : 100
+  All patches found : YES
+  CSV path          : D:\HISTOPATHOLOGY\genomics\genomics_clean.csv
+  Patch dir         : D:\HISTOPATHOLOGY\patches
+============================================================
+  Data is ready for step 3 (CNN training + Grad-CAM)
+============================================================
