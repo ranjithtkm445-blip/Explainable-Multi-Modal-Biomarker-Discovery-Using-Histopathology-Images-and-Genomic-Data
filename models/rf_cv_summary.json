@@ -1,0 +1,14 @@
+{
+  "cv_scores": [
+    0.8,
+    0.7,
+    0.5,
+    0.8,
+    0.6
+  ],
+  "cv_mean": 0.68,
+  "cv_std": 0.1166,
+  "n_estimators": 500,
+  "max_depth": 4,
+  "n_genes": 100
+}
